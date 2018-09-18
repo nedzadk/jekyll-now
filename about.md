@@ -49,7 +49,6 @@ Education
 
 *   **SMS Enver Pozderovic** (Gorazde, BiH)
 
-   
 
 
 Skills
