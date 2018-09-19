@@ -5,8 +5,7 @@ permalink: /resume/
 published: true
 ---
 
-About
------
+
 Hi, my name is Nedzad and I am 36 year software developer from Sarajevo (Bosnia and Herzegovina).
 
 Work Experience
