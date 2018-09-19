@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Hi, my name is Nedzad and I am 36 year old software developer from Sarajevo (Bosnia and Herzegovina).
+Hi, my name is Nedzad and I am 36 years old software developer from Sarajevo (Bosnia and Herzegovina).
 
 Work Experience
 ---------------
