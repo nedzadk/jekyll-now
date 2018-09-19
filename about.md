@@ -5,11 +5,9 @@ permalink: /resume/
 published: true
 ---
 
-Interests
----------
-
-*   Programming and traveling
-
+About
+-----
+Hi, my name is Nedzad and I am 36 year software developer from Sarajevo (Bosnia and Herzegovina).
 
 Work Experience
 ---------------
@@ -18,7 +16,7 @@ Work Experience
 
     *Full-Stack Developer*, 2015 - *present*
 
-    -   React, Node, Angular, Rails
+    -   React, React Native, Angular, NodeJS, Ruby on Rails
 
 *   **eCampus** (Miami, USA) - remote
 
@@ -39,8 +37,15 @@ Work Experience
     *Software developer / Network administrator*, 2005 - 2010
 
     -   PHP, Action Script, Delphi (Pascal)
-    -   Windows, AD, Linux administration 
+    -   Windows, AD, Linux administration
 
+*   **Elektroakustik d.o.o.**
+
+    *IT Support*, 2003 - 2005
+
+*   **Uni-Expert d.o.o.**
+
+    *IT Support*, 2001 - 2002
 
 Education
 ---------
@@ -50,12 +55,10 @@ Education
 *   **SMS Enver Pozderovic** (Gorazde, BiH)
 
 
+Interests
+---------
 
-Skills
-------
-
-*   Very experienced with Javascript, Ruby on Rails and PHP
-
+*   Programming and traveling
 
 
 Contact
