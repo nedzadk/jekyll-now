@@ -1,3 +1,5 @@
+---
+layout: post
 title: Setting up [Neo]Vim for easier project navigation
 ---
 
