@@ -1,11 +1,7 @@
----
-layout: post
 title: Setting up [Neo]Vim for easier project navigation
 ---
 
-## Intro
-
-I've been struggleing for some time to switch my JS development to Vim, but always ended up with struggle of navigating through JS projects quick enough. 
+I've been struggling for some time to switch my JS development to Vim, but always ended up with issues of navigating through JS projects quick enough so it will not have effect on my productivity. 
 
 I have tried all kind of plugin combination but never felt quite comfortable. 
 
