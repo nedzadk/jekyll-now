@@ -1,0 +1,4 @@
+baseURL = "http://nedzadk.github.io/"
+languageCode = "en-us"
+title = "Nedzad Kulelija"
+theme = "m10c"
